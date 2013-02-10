@@ -76,7 +76,7 @@
 		<font face="AdineKirnberg">
 		<font size="4">
 		<font color="330000">
-		<pre><b><a href="http://www.dreamlandpuccapigletsister.blogspot.com/">My Blog</a></b></pre>		
+		<pre><b><a href="https://twitter.com/Rs_Novia/">My Twit</a></b></pre>		
 		</font>
 		</font>
 		</font>
