@@ -125,7 +125,7 @@ Share Kisahmu dan Raihlah Teman Barumu
 </font>
 </font>
 </font>
-<hr color="black" width="750" height="45" align="center"><br><br><br><br><br>
+<hr color="black" width="750" height="45" align="center"><br><br>
 	
 
 
