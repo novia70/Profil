@@ -1,29 +1,11 @@
-
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Sanggar Singgah Opie Teta
 </title>
 </head>
-<body background="./Sanggar Singgah Opie Teta_files/01.jpg">
 
-  <h1 align="center">
-	<font face="AdineKirnberg">
-	<font size="30">
-	<font color="cb0f9d">
-	Opie Teta Zone<b><br>
-	</b></font><b>
-	</b></font><b>
-	</b></font><b>
-	</b></h1><b>
-<img src="./Sanggar Singgah Opie Teta_files/Brand Name Logo UM The Learning University.png"> 
 
-	
-	<b><hr color="cb0f9d" width="600" height="45" align="center"><br>
-							
-			<marquee direction="center">
-	<img src="./Sanggar Singgah Opie Teta_files/bunga.png">
-	</marquee>	<br><br>
-	
-						
+  
+<br><br><br><br><br>					
 <table width="300" height="12" align="left" border="5">
 	<tbody><tr>
 	<td>
@@ -105,8 +87,7 @@
 	<tr>
 	<td>
 <marquee direction="center">
-		<img src="./Sanggar Singgah Opie Teta_files/Foto0568.jpg" width="180" height="150" border="2">
-</marquee>
+		
 	</td>
 	</tr>
 
@@ -115,10 +96,7 @@
 		
 
 </tbody></table>
-<img src="./Sanggar Singgah Opie Teta_files/kita.jpg" width="750" height="575 border=" 3"="">
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 <font face="AdineKirnberg">
 <font size="8">
@@ -185,41 +163,5 @@ b.	Kecenderungan<br>
 
 </font>
 </font>
-<hr color="330000" width="800" height="45" align="center"><br><br>
 
-							<font face="Amazone BT">
-							<font size="8">
-							</font></font><h1 align="center"><font face="Amazone BT"><font size="8">
-							<font color="330000">	
-							<p>Ketika Ketulusan Bicara</p>
-							</font>
-							<p></p>
-							</font>
-							</font><br>
-
-							<font face="tahoma">
-							<font size="3">
-							<p align="center">
-							<font color="330000">	
-						
-							Hidup bagaikan roda yang berputar.<br>
-							Ketika kita harus memilih dan<br>
-							 menentukan yang tak bisa <br>
-							kita inginkan.Di saat semua<br>
-							 datang tiba-tiba.<br>
-							Terkadang kita merasa ini tak adil<br>
-							Tetapi tetaplah berjuang untuk berikan 
-							yang terbaik<br>
-							
-							By: Opie Teta
-							
-							</font>
-							</p>
-							</font>
-							</font> 
-<marquee direction="center">
-	<img src="./Sanggar Singgah Opie Teta_files/bunga2.png">
-	</marquee>
-	<b><hr color="black" width="600" height="45" align="center"><br><br><br><br><br>
-							
-</b></h1></b></b></body></html>
+</html>
