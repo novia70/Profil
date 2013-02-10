@@ -1,4 +1,4 @@
-<!-- saved from url=(0030)http://noviapendtium.webs.com/ -->
+
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Sanggar Singgah Opie Teta
 </title>
@@ -222,4 +222,4 @@ b.	Kecenderungan<br>
 	</marquee>
 	<b><hr color="black" width="600" height="45" align="center"><br><br><br><br><br>
 							
-<!-- --></b></h1></b></b></body></html>
+</b></h1></b></b></body></html>
